@@ -1,2 +1,1 @@
-# Demos
-My repo for Demos - for attendees!!
+My repo for Demos - for attendees..
